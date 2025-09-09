@@ -4,3 +4,5 @@ From this task i have gain lot experience and i get to know and learn lot about 
 website making.
 It was a great exprience and i get to learn a lot from it.
 Thank you
+Here is the the link for the full page:
+https://ayub-bd.github.io/Landing-page/src/
