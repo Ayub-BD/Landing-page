@@ -1,4 +1,4 @@
-Hello, I am Md shaharia Islam. It is a web page according to a figma design. It is a landing page. 
+Hello, I am Abu Ayub Bhuyan. It is a web page according to a figma design. It is a landing page. 
 
 #Tailwind Project
 
